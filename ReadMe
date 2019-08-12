@@ -1,0 +1,7 @@
+Spring Web Service - Rest API
+
+Register new user and will generate an account number.
+Can get the full name of the user.
+Enable you to transfer funds from one account to another account.
+Can display the balance of the user.
+h2 console db. it update the balance of the source and target account once you transfer fund.
